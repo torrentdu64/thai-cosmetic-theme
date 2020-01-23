@@ -1,0 +1,10 @@
+development:
+  store: exemple.myshopify.com
+  password: secret
+  theme_id: "live"
+  bucket_size: 40
+  refill_rate: 2
+  ignore_file:
+    - "*.swp"
+    - "*~"
+    - "config/settings_data.json"
